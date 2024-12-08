@@ -1,0 +1,20 @@
+.bulb {
+      width: 300px;
+      height: 300px;
+      border-radius: 100%;
+      background-color: white;
+      margin: 20px auto;
+      border: 1px solid black;
+}
+button {
+      height:100px;
+      width:40px;
+      text-align: center;
+      margin:10px;
+      font-size: 15px;
+      background-color: rgb(255, 216, 236);
+}
+.container {
+      text-align: center;
+      margin-top: 200px;
+}
